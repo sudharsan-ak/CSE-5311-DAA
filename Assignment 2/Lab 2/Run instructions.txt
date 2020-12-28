@@ -1,0 +1,11 @@
+For Windows Command Prompt:
+
+Compile : gcc finalcode.c -o finalcode.exe
+
+Run : finalcode.exe <lab2spr20.dat
+
+For Linux Terminal:
+
+Compile : gcc finalcode.c
+
+Run : ./a.out <lab2spr20.dat

@@ -1,0 +1,11 @@
+For Windows Command Prompt:
+
+Compile : g++ sxs5919_lab3.cpp -o lab3.exe
+
+Run : lab3.exe <lab3spr20.a.dat
+
+For Linux Terminal:
+
+Compile : g++ sxs5919_lab3.cpp
+
+Run : ./a.out <lab3spr20.a.dat
